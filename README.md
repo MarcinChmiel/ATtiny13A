@@ -6,6 +6,6 @@ All examples in this repository will be written using embedded C language.
 
 I'll focus on how-to-set ATtiny13A features like
 
-EEPROM
+- EEPROM
 
 If You want to get to know how to program the rest of features see ATmega328p repository.
